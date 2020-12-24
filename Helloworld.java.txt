@@ -1,0 +1,9 @@
+Public static void main {
+printf("software manish")
+}
+
+Class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
